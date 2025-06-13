@@ -1,6 +1,6 @@
 # Extremum Seeking Control for Resonant Frequency Seeking
 Extremum seeking control (ESC) is implemented to obtain the resonant frequency of an underdamped mass-spring-damper system. For this purpose, a control architecture is designed for ESC to modulate the frequency of the input force and measure an estimate of the amplitude of the mass displacement. 
-Continuous-time and discrete-time implementations are shown
+Continuous-time and discrete-time implementations are shown.
 A vanishing dither algorithm for converging ESC output (control input) is featured in the discrete-time implementation.
 Documentation of the algorithms implemented can be found in the *Extremum_Seeking_for_Resonant_Frequency_Seeking.pdf* file.
 
